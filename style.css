@@ -209,6 +209,24 @@ body {
     background-position: center;
 }
 
+.work-5.gallery-room {
+    background-image: url(img/national_artist/Napoleon-bg.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+.work-6.gallery-room {
+    background-image: url(img/national_artist/Napoleon-bg.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+.work-7.gallery-room {
+    background-image: url(img/national_artist/Napoleon-bg.webp);
+    background-size: cover;
+    background-position: center;
+}
+
 /* Spotlight Effect on the Wall */
 .gallery-room::before {
     content: '';
